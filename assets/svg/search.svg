@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1287" height="451" viewBox="0 0 1287 451">
+  <defs>
+    <filter id="Rectangle_111" x="0" y="0" width="1287" height="451" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_243" data-name="Group 243" transform="translate(79.5 -7.5)">
+    <g transform="matrix(1, 0, 0, 1, -79.5, 7.5)" filter="url(#Rectangle_111)">
+      <g id="Rectangle_111-2" data-name="Rectangle 111" transform="translate(148.5 138.5)" fill="#fff" stroke="#e8e8e8" stroke-width="2">
+        <rect width="990" height="154" rx="20" stroke="none"/>
+        <rect x="1" y="1" width="988" height="152" rx="19" fill="none"/>
+      </g>
+    </g>
+    <path id="Path_78" data-name="Path 78" d="M59.87,60.407a2.831,2.831,0,0,1-4.056,0l-7.224-7.224a24.173,24.173,0,1,1,3.992-4.056l7.224,7.224A2.888,2.888,0,0,1,59.87,60.407ZM33.89,16.493a17.87,17.87,0,1,0,17.87,17.87A17.849,17.849,0,0,0,33.89,16.493Z" transform="translate(113 187.4)" fill="#b6bed4"/>
+    <text id="Search" transform="translate(209 241)" fill="#6e7faa" font-size="48" font-family="JosefinSans-Regular, Josefin Sans" opacity="0.8"><tspan x="0" y="0">Search</tspan></text>
+    <g id="Group_236" data-name="Group 236" transform="translate(955.626 196.235)">
+      <path id="Path_80" data-name="Path 80" d="M14.853,29.984V2.023a2.033,2.033,0,0,0-4.065,0V29.984a7.879,7.879,0,0,0,0,15.248V51.5a2.033,2.033,0,0,0,4.065,0V45.231a7.88,7.88,0,0,0,0-15.248ZM12.82,41.462a3.854,3.854,0,1,1,3.854-3.852A3.858,3.858,0,0,1,12.82,41.462Z" transform="translate(10.554 0.316)" fill="#b6bed4" stroke="#b6bed4" stroke-width="1"/>
+      <path id="Path_81" data-name="Path 81" d="M28.268,15.254A7.914,7.914,0,0,0,22.377,7.63V2.248a2.033,2.033,0,0,0-4.065,0V7.63a7.881,7.881,0,0,0,0,15.25V51.728a2.033,2.033,0,1,0,4.065,0V22.88A7.915,7.915,0,0,0,28.268,15.254ZM20.344,19.11A3.855,3.855,0,1,1,24.2,15.254,3.862,3.862,0,0,1,20.344,19.11Z" transform="translate(21.109 0.631)" fill="#b6bed4" stroke="#b6bed4" stroke-width="1"/>
+      <path id="Path_82" data-name="Path 82" d="M7.329,7.182V1.8a2.033,2.033,0,1,0-4.065,0V7.182a7.879,7.879,0,0,0,0,15.248V51.278a2.033,2.033,0,0,0,4.065,0V22.43a7.879,7.879,0,0,0,0-15.248ZM5.3,18.663A3.855,3.855,0,1,1,9.15,14.806,3.86,3.86,0,0,1,5.3,18.663Z" transform="translate(0 0)" fill="#b6bed4" stroke="#b6bed4" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
