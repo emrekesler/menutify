@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
               TabItem(icon: Icons.map),
               TabItem(icon: Icons.blur_on),
               TabItem(icon: Icons.message),
-              TabItem(icon: Icons.people)
+              TabItem(icon: Icons.people),
             ],
             initialActiveIndex: 2, //optional, default as 0
             onTap: (int i) => print('click index=$i'),
